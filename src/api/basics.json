@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "question": "What is the command to compile packages and dependencies?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "<code class='inlinecode'>go compile</code>"
+            },
+            {
+                "option": "b",
+                "text": "<code class='inlinecode'>go run</code>"
+            },
+            {
+                "option": "c",
+                "text": "<code class='inlinecode'>go build</code>"
+            },
+            {
+                "option": "d",
+                "text": "<code class='inlinecode'>go install</code>"
+            }
+        ],
+        "correct_answer": "c"
+    },
+    {
+        "id": 2,
+        "question": "What is the command to compile and run Go program?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "<code class='inlinecode'>go compile</code>"
+            },
+            {
+                "option": "b",
+                "text": "<code class='inlinecode'>go run</code>"
+            },
+            {
+                "option": "c",
+                "text": "<code class='inlinecode'>go build</code>"
+            },
+            {
+                "option": "d",
+                "text": "<code class='inlinecode'>go install</code>"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "id": 3,
+        "question": "Can we run the below Go program?",
+        "code": [
+            "package main",
+            "import \"fmt\"",
+            "func hello() {",
+            "    fmt.Println(\"Hello World!\")",
+            "}"
+        ],
+        "answers": [
+            {
+                "option": "a",
+                "text": "Yes"
+            },
+            {
+                "option": "b",
+                "text": "No"
+            }
+        ],
+        "correct_answer": "b"
+    },
+    {
+        "id": 4,
+        "question": "Which is the valid main function?",
+        "answers": [
+            {
+                "option": "a",
+                "text": "<code class='inlinecode'>func hello(){}</code>"
+            },
+            {
+                "option": "b",
+                "text": "<code class='inlinecode'>fun main(){}</code>"
+            },
+            {
+                "option": "c",
+                "text": "<code class='inlinecode'>function main(){}</code>"
+            },
+            {
+                "option": "d",
+                "text": "<code class='inlinecode'>func main(){}</code>"
+            }
+        ],
+        "correct_answer": "d"
+    }
+]
