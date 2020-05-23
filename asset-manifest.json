@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/go-quiz-youtube/static/css/main.61918a17.chunk.css",
+    "main.js": "/go-quiz-youtube/static/js/main.ba2fdef3.chunk.js",
+    "main.js.map": "/go-quiz-youtube/static/js/main.ba2fdef3.chunk.js.map",
+    "runtime-main.js": "/go-quiz-youtube/static/js/runtime-main.cad728c9.js",
+    "runtime-main.js.map": "/go-quiz-youtube/static/js/runtime-main.cad728c9.js.map",
+    "static/js/2.5f4f0d0a.chunk.js": "/go-quiz-youtube/static/js/2.5f4f0d0a.chunk.js",
+    "static/js/2.5f4f0d0a.chunk.js.map": "/go-quiz-youtube/static/js/2.5f4f0d0a.chunk.js.map",
+    "index.html": "/go-quiz-youtube/index.html",
+    "precache-manifest.d66f9d5481b35ab79d0594b04c5b15ba.js": "/go-quiz-youtube/precache-manifest.d66f9d5481b35ab79d0594b04c5b15ba.js",
+    "service-worker.js": "/go-quiz-youtube/service-worker.js",
+    "static/css/main.61918a17.chunk.css.map": "/go-quiz-youtube/static/css/main.61918a17.chunk.css.map",
+    "static/js/2.5f4f0d0a.chunk.js.LICENSE.txt": "/go-quiz-youtube/static/js/2.5f4f0d0a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cad728c9.js",
+    "static/js/2.5f4f0d0a.chunk.js",
+    "static/css/main.61918a17.chunk.css",
+    "static/js/main.ba2fdef3.chunk.js"
+  ]
+}
